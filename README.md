@@ -56,7 +56,4 @@ npx mocha test/test-cards.mjs
 Feel free to fork this project and contribute. Please make sure to run tests before submitting a pull request.
 
 ## License
-[Add License here if applicable]
-
----
-Created as part of [Course/Institution Name] curriculum.
+This project is MIT licensed.
